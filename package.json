@@ -1,7 +1,7 @@
 {
-  "name": "postman_api",
+  "name": "postman-api-client",
   "version": "1.0.0",
-  "description": "Postman_API",
+  "description": "Postman API Node.js client",
   "license": "Unlicense",
   "main": "dist/index.js",
   "scripts": {
